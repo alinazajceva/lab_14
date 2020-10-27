@@ -1,0 +1,54 @@
+body
+{
+  font-family: 'Didact Gothic', sans-serif;
+  background-color: #F5DEB3;
+}
+
+.ph{
+    font-size: 30px;
+}
+
+a:link {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+text-decoration: none;
+font-size: 30px;
+color: #8B4513;
+    
+}
+a:visited {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 35px;
+color: #A0522D;
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 35px;
+color: #DEB887;
+}
+a:active {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 35px;
+color: #D2B48C;
+}
+.pole {
+    margin-left: 5px;
+border: 3px solid #fff;
+padding-left: 10px;
+width:350px;
+font-size: 11px;
+background-color: #A0522D;
+height: 240px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.pole2 {
+    padding-left: 10px;
+    margin-left: 5px;
+border: 3px solid #fff;
+font-size: 11px;
+background-color: #A0522D;
+height: 240px;
+    width: 85%;
+}
